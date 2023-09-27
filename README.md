@@ -1,8 +1,12 @@
 # YoutubeAlgorithmKiller
 
+## Links
 [Firefox](https://addons.mozilla.org/en-US/firefox/addon/youtubealgorithmkiller/)
+
 [CHROME](https://chrome.google.com/webstore/detail/youtubealgorithmkiller/fpmfjjggginpiblbalhohnpnkcggnejn?hl=fr)
+
 [EDGE](https://microsoftedge.microsoft.com/addons/detail/youtubealgorithmkiller/ogpcodhpkhpikhchbfhmclldkkmbemem)
+
 
 ## Introducing YouTubeAlgorithmKiller: The Ultimate Customization Extension for YouTube
 
